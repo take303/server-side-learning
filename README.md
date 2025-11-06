@@ -19,7 +19,7 @@ Rails / SQL / Docker / AWS を中心に、日々の学び・小課題・試行�
 
 ## Progress
 - 2025-11-05: リポジトリ初期設定（.gitignore / LICENSE / README）
-- 2025-11-06: 学習方針の整理、Issue作成予定
+- 2025-11-06: 学習方針の整理、Issue作成予定、Git運用方法確認
 
 ## Next
 - notes/ に第1回学習ログを追加
