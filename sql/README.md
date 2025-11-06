@@ -1,0 +1,2 @@
+# sql
+基本SELECT/WHERE/ORDER BYの演習

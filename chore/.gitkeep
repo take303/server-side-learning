@@ -1,0 +1,7 @@
+mkdir notes
+echo "# 学習メモ置き場" > notes/README.md   # 何かファイルを置く
+# もしくは
+# touch notes/.gitkeep
+git add -A
+git commit -m "docs: notes ディレクトリ追加（README.md 同梱）"
+git push
